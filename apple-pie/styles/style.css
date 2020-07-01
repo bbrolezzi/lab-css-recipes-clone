@@ -18,15 +18,30 @@ h1 {
   margin-top: 0;
 }
 div,
+h2,
 ul,
 ol {
   width: 700px;
   margin: 0 auto;
   text-align: justify;
 }
+h2 {
+  margin: 30px auto 30px;
+  font-size: 24px;
+  font-weight: lighter;
+}
 div {
   font-size: 20px;
   padding-top: 50px;
+  text-align: center;
 }
-.recipeGuidelines {
+img {
+  width: 300px;
+}
+ul {
+  line-height: 150%;
+}
+ol {
+  margin-bottom: 50px;
+  line-height: 150%;
 }
